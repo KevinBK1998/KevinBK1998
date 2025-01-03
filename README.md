@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinBK1998
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on emulators
 - 📫 How to reach me - GH
 
